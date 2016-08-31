@@ -3,6 +3,11 @@
  */
 public class Star extends CelestialObject{
 
+    /**
+     * 
+     * @param mass
+     * @param name
+     */
     public Star(double mass, String name) {
         super(mass, name);
     }
